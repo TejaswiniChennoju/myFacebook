@@ -17,12 +17,6 @@ main {
     position: relative;
     margin: 0 auto;
 }
-.mainrow {
-display:flex;
-    justify-content: center;
-
-}
-
 
 .row {
     display: flex;
